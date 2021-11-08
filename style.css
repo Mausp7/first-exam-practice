@@ -42,3 +42,43 @@ button, input, textarea, select {
 	
 	border-radius: 0;
 }
+
+section {
+	position: relative;
+	
+	width: 100vw;
+	height: 100vh;
+}
+
+#section1 {
+	background-color: #f00;
+}
+
+#section2 {
+	background-color: #0f0;
+}
+
+#section3 {
+	background-color: #00f;
+}
+
+button {
+	position: absolute;
+	right: 40px;
+	bottom: 40px;
+
+	width: 200px;
+	height: 50px;
+}
+
+#button1 {
+	background-color: #0ff;
+}
+
+#button2 {
+	background-color: #f0f;
+}
+
+#button3 {
+	background-color: #ff0;
+}
